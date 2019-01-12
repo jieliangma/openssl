@@ -5,9 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/openssl.svg?style=flat)](https://cocoapods.org/pods/openssl)
 [![Platform](https://img.shields.io/cocoapods/p/openssl.svg?style=flat)](https://cocoapods.org/pods/openssl)
 
-## Example
+## Description
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+This is a dynamic framework.
 
 ## Requirements
 
