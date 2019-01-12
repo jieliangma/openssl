@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'openssl'
-  s.version          = 'openssl-1.0.2d'
+  s.version          = '1.0.2d'
   s.summary          = 'A short description of openssl.'
 
 # This description is used to generate tags and improve search results.
