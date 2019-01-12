@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'openssl-framework'
+  s.name             = 'openssl-ios-framework'
   s.version          = '1.0.2d'
   s.summary          = 'A short description of openssl.'
 
